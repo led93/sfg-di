@@ -5,4 +5,4 @@ This repository is for an example application built in [Spring Framework 5 - Beg
 # Repository Structure
 
 In the main branch there is only the initial add. 
-Other branches are built on top of this, each one exploring different aspects related to DI (Dependency Injection) of Spring Boot.  
+Other branches are built on top of it, each one exploring different aspects related to DI (Dependency Injection) of Spring Boot.  
